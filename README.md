@@ -1,6 +1,6 @@
 # CovBot
    Made with ❤ by **team InCognoS**
-        [@just-ary27] [@Zenfoldium]  [@xtanion]
+   
 
 ## Introduction
 
@@ -148,7 +148,7 @@ Contact us at our handles for any feedback or adding community functionality of 
 ## Made by:
 
 - team InCognoS:
-  - [Aryan Ranjan](@just-ary27)
+  - [Aryan Ranjan](@just-ary27) [Team Leader]
   - [Ashish Singh](@Zenfoldium)
   - [Shivam Sahu](@xtanion)
 
