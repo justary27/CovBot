@@ -1,8 +1,11 @@
-# CovBot
-   Made with ❤ by **team InCognoS**
-   
+![Frame 14](https://user-images.githubusercontent.com/76696648/120097594-eb0c6500-c14e-11eb-92c8-7a10846638a8.png)
 
-## Introduction
+
+<!-- # CovBot
+   Made with ❤ by **team InCognoS**
+    -->
+
+# Introduction
 
 **CovBot** is an easy to use discord bot made in mind to help the people in this Covid-19 pandemic. It offers a range of features such as providing the latest stats of any country, present these trends in forms of graphs and also to entertain people. 
 
@@ -12,11 +15,13 @@ CovBot can entertain you with features like space facts and search , news on any
 **Part of a Community Server?**
 We have additional features for aiding community Covid resource servers to automate the process of adding & retrieving info from their databases and excel sheets!
 
-## Commands & Tutorials!
+*To start using CovBot in your servers, [click here](https://discord.com/oauth2/authorize?client_id=835222640821796924&scope=bot).*
+
+# Commands & Tutorials!
 A simple command is all that you are away from interacting with **CovBot**.
 **The bot prefix is ``` ' ```.**
 
-  ### Covid Stats:
+  ## Covid Stats:
    Gives you the latest Covid-19 stats for the desired country.
 
  ```
@@ -37,8 +42,8 @@ A simple command is all that you are away from interacting with **CovBot**.
 ![cc](https://user-images.githubusercontent.com/82609788/120090890-aae3bd00-c123-11eb-9867-895fb5b12b63.png)
 
 
-  ### Covid Trends:
-   Gives a graph showing the trends of *Total, Active cases and no. of deaths** over the past 136 days.
+  ## Covid Trends:
+   Gives a graph showing the trends of *Total, Active cases and no. of deaths* over the past 136 days.
 
    ```
 'graph (Country Name)
@@ -51,7 +56,7 @@ A simple command is all that you are away from interacting with **CovBot**.
        ```
 ![graph Brazil](https://user-images.githubusercontent.com/82609788/120091189-6d346380-c126-11eb-8bf1-21842f6121d9.png)
 
-  ### Space facts:
+  ## Space facts:
    Get interesting facts related to space on a simple search or get the Nasa's picture of the Day.
 
    - SPOD:
@@ -78,7 +83,7 @@ A simple command is all that you are away from interacting with **CovBot**.
         ```
 ![ssearch Jupiter](https://user-images.githubusercontent.com/82609788/120091200-81786080-c126-11eb-820c-5ce3d94fbcd3.png)
 
-  ### News:
+  ## News:
    Get latest news on any topic of your choice!
 
    ```
@@ -91,7 +96,7 @@ A simple command is all that you are away from interacting with **CovBot**.
    ```
 ![news](https://user-images.githubusercontent.com/82609788/120091208-8fc67c80-c126-11eb-9ee4-1bbc774cdebb.png)
 
-  ### Inspirational quotes:
+  ## Inspirational quotes:
    Get some instant inspiration with an inspirational quote!
 
  ```text
@@ -111,7 +116,7 @@ A simple command is all that you are away from interacting with **CovBot**.
 
    - **Example**:
 
-  ### Help:
+  ## Help:
    Should you ever forget anything, the help command will always be there for rescue! Just type in **'help** and you will be guided forward!
 
   ```
@@ -121,7 +126,7 @@ A simple command is all that you are away from interacting with **CovBot**.
 
 ![help](https://user-images.githubusercontent.com/82609788/120091212-9a811180-c126-11eb-9e7c-e96611ba7fd6.png)
 
-## Tech stack used:
+# Tech stack used:
 
    - python (v3.9.4)
    - APIs used:
@@ -145,9 +150,10 @@ Contact us at our handles for any feedback or adding community functionality of 
 <span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>
 </p>
 
-## Made by:
+# Made by:
 
-- team InCognoS:
+ ![Frame 15](https://user-images.githubusercontent.com/76696648/120098257-7509fd00-c152-11eb-9086-11994394f814.png)
+
   - [Aryan Ranjan](@just-ary27) [Team Leader]
   - [Ashish Singh](@Zenfoldium)
   - [Shivam Sahu](@xtanion)
