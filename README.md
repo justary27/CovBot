@@ -107,14 +107,32 @@ A simple command is all that you are away from interacting with **CovBot**.
    
 ![gq](https://user-images.githubusercontent.com/82609788/120091210-9523c700-c126-11eb-87d6-8b4885675420.png)
 
-  ### Anime Info:
-   Any Anime fans there? We got you covered. Just use the **'anime <anime name>** command to get ratings, Episode count and Short descrption of that Anime. 
+  ## Anime Info:
+   Any *Anime* fans there? We got you covered. With the use of simple commands you can get ratings, episode count and short description of an anime/manga. 
    
-   ```
-      'anime
-   ```
+   - Anime:
+   Get info on anime you might be planning to watch!
+   
+      ```
+         'anime (anime name)
+      ```
 
-   - **Example**:
+      - **Example**:
+      ```
+         'anime (One Punch Man)
+      ```
+      
+  - Mangas:
+  For the manga weebs, use this command to get info on any manga!
+  
+      ```
+         'manga (manga name)
+      ```
+      - **Example**:
+      ```
+         'manga 
+      ```
+   
 
   ## Help:
    Should you ever forget anything, the help command will always be there for rescue! Just type in **'help** and you will be guided forward!
