@@ -20,7 +20,7 @@ A simple command is all that you are away from interacting with **CovBot**.
    Gives you the latest Covid-19 stats for the desired country.
 
  ```
-        'cc (Country Name)
+'cc (Country Name)
  ```
 
    No arguement will default the stats to India's.
@@ -28,18 +28,21 @@ A simple command is all that you are away from interacting with **CovBot**.
    - **Example**:
         
        ```
-        'cc USA
+       'cc USA
        ```
-![cc USA](https://user-images.githubusercontent.com/82609788/120090597-78d15b80-c121-11eb-98df-c254691452ca.png)
+![cc USA](https://user-images.githubusercontent.com/82609788/120090887-a4554580-c123-11eb-8aab-8fb9217863cc.png)
+       
        ```
-        'cc
+          'cc
        ```
+![cc](https://user-images.githubusercontent.com/82609788/120090890-aae3bd00-c123-11eb-9867-895fb5b12b63.png)
+
 
   ### Covid Trends:
    Gives a graph showing the trends of *Total, Active cases and no. of deaths** over the past 136 days.
 
    ```
-        'graph (Country Name)
+'graph (Country Name)
    ```
         
    - **Example**:
