@@ -17,14 +17,14 @@ body {
  }
  .nav-link:hover {
      background: transparent !important;
-     color: #AD91FF;
+     color: #AD91FF !important;
      font-weight: bold !important;
  }
 .tutnav:hover{
-    color:#5BFA9A;
+    color:#5BFA9A !important;
 }
 .comnav:hover{
-    color: #FFAFAF;
+    color: #FFAFAF !important;
 }
  .login-btn {
      border: 2px solid #AD91FF !important;
