@@ -19,9 +19,9 @@ A simple command is all that you are away from interacting with **CovBot**.
   ### Covid Stats:
    Gives you the latest Covid-19 stats for the desired country.
 
-        ```
+ ```
         'cc (Country Name)
-        ```
+ ```
 
    No arguement will default the stats to India's.
 
@@ -81,9 +81,9 @@ A simple command is all that you are away from interacting with **CovBot**.
   ### Inspirational quotes:
    Get some instant inspiration with an inspirational quote!
 
-    ```
+ ```
     'gq
-    ```
+ ```
 
    - **Example**:
 
