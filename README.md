@@ -42,7 +42,7 @@ A simple command is all that you are away from interacting with **CovBot**.
         'graph (Country Name)
        ```
         
-    - **Example**:
+   - **Example**:
 
        ```
         'graph Brazil
