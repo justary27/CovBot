@@ -30,7 +30,7 @@ A simple command is all that you are away from interacting with **CovBot**.
        ```
         'cc USA
        ```
-
+![cc USA](https://user-images.githubusercontent.com/82609788/120090597-78d15b80-c121-11eb-98df-c254691452ca.png)
        ```
         'cc
        ```
@@ -68,6 +68,9 @@ A simple command is all that you are away from interacting with **CovBot**.
        ```
 
         - **Example**:
+        ```
+        'ssearch Jupiter
+        ```
 
   ### News:
    Get latest news on any topic of your choice!
@@ -77,6 +80,9 @@ A simple command is all that you are away from interacting with **CovBot**.
    ```
 
    - **Example**:
+   ```
+   'news covid
+   ```
 
   ### Inspirational quotes:
    Get some instant inspiration with an inspirational quote!
