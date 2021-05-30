@@ -17,7 +17,7 @@ body {
  }
  .nav-link:hover {
      background: transparent !important;
-     color: #AD91FF !important;
+     color: #AD91FF;
      font-weight: bold !important;
  }
 .tutnav:hover{
