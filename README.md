@@ -81,7 +81,7 @@ A simple command is all that you are away from interacting with **CovBot**.
   ### Inspirational quotes:
    Get some instant inspiration with an inspirational quote!
 
- ```
+ ```text
     'gq
  ```
 
@@ -121,21 +121,9 @@ A simple command is all that you are away from interacting with **CovBot**.
 # Contact Us:
 Contact us at our handles for any feedback or adding community functionality of CovBot to your servers!
 
-[![@team_InCognoS][1.1]][1]
-[![@We are team incognos][2.1]][2]
-[![@team_InCognoS][4.1]][4]
-
-[1.1]: https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-64.png
- (@team_InCognoS) 
-[2.1]: https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-64.png
- (@We are team incognos) 
-[4.1]: https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-64.png
- (@team_InCognoS)
-
-[1]: https://twitter.com/team_incognos
-[2]: https://www.facebook.com/incognos.incognos
-[4]: https://www.instagram.com/team_incognos/
-
+<a href="https://www.facebook.com/incognos.incognos"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-64.png" alt=""></a>
+<a href="https://www.instagram.com/team_incognos/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-64.png" alt=""></a>
+<a href="https://twitter.com/team_incognos"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-64.png" alt=""></a>
 ## Made by:
 
 - team InCognoS:
