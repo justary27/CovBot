@@ -108,10 +108,10 @@ A simple command is all that you are away from interacting with **CovBot**.
 ![gq](https://user-images.githubusercontent.com/82609788/120091210-9523c700-c126-11eb-87d6-8b4885675420.png)
 
   ### Anime Info:
-    
-
+   Any Anime fans there? We got you covered. Just use the **'anime <anime name>** command to get ratings, Episode count and Short descrption of that Anime. 
+   
    ```
-
+      'anime
    ```
 
    - **Example**:
