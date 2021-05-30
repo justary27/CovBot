@@ -60,14 +60,14 @@ A simple command is all that you are away from interacting with **CovBot**.
         - **Example**:
 
 
-    - Space Search (In development):
+   - Space Search (In development):
         Returns images related to a search on an astronomical object/event if it's in NASA's database.
 
         ```
         'ssearch (what you want to search about space)
         ```
 
-    - **Example**:
+        - **Example**:
 
   ### News:
    Get latest news on any topic of your choice!
@@ -107,14 +107,14 @@ A simple command is all that you are away from interacting with **CovBot**.
 
 ## Tech stack used:
 
-    - python (v3.9.4)
-    - APIs used:
+   - python (v3.9.4)
+   - APIs used:
         - discord.py (v 1.7.1)
         - Nasapy 
         - Covid API
         - python-news API
         - Zenquotes API
-    - Matplotlib 
+   - Matplotlib 
 
 
 
