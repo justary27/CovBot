@@ -20,7 +20,12 @@ body {
      color: #AD91FF !important;
      font-weight: bold !important;
  }
-
+.tutnav:hover{
+    color:#5BFA9A;
+}
+.comnav:hover{
+    color: #FFAFAF;
+}
  .login-btn {
      border: 2px solid #AD91FF !important;
      font-size: 10px !important;
