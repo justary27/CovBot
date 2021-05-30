@@ -32,9 +32,8 @@ A simple command is all that you are away from interacting with **CovBot**.
        ```
 ![cc USA](https://user-images.githubusercontent.com/82609788/120090887-a4554580-c123-11eb-8aab-8fb9217863cc.png)
        
-       ```
-          'cc
-       ```
+       'cc
+       
 ![cc](https://user-images.githubusercontent.com/82609788/120090890-aae3bd00-c123-11eb-9867-895fb5b12b63.png)
 
 
@@ -50,6 +49,7 @@ A simple command is all that you are away from interacting with **CovBot**.
        ```
         'graph Brazil
        ```
+![graph Brazil](https://user-images.githubusercontent.com/82609788/120091189-6d346380-c126-11eb-8bf1-21842f6121d9.png)
 
   ### Space facts:
    Get interesting facts related to space on a simple search or get the Nasa's picture of the Day.
@@ -61,6 +61,8 @@ A simple command is all that you are away from interacting with **CovBot**.
         'spod
        ```
         - **Example**:
+       
+![spod](https://user-images.githubusercontent.com/82609788/120091195-7b827f80-c126-11eb-8a4a-038769b34369.png)
 
 
    - Space Search (In development):
@@ -74,6 +76,7 @@ A simple command is all that you are away from interacting with **CovBot**.
         ```
         'ssearch Jupiter
         ```
+![ssearch Jupiter](https://user-images.githubusercontent.com/82609788/120091200-81786080-c126-11eb-820c-5ce3d94fbcd3.png)
 
   ### News:
    Get latest news on any topic of your choice!
@@ -86,6 +89,7 @@ A simple command is all that you are away from interacting with **CovBot**.
    ```
    'news covid
    ```
+![news](https://user-images.githubusercontent.com/82609788/120091208-8fc67c80-c126-11eb-9ee4-1bbc774cdebb.png)
 
   ### Inspirational quotes:
    Get some instant inspiration with an inspirational quote!
@@ -95,6 +99,8 @@ A simple command is all that you are away from interacting with **CovBot**.
  ```
 
    - **Example**:
+   
+![gq](https://user-images.githubusercontent.com/82609788/120091210-9523c700-c126-11eb-87d6-8b4885675420.png)
 
   ### Anime Info:
     
@@ -113,6 +119,7 @@ A simple command is all that you are away from interacting with **CovBot**.
   ```
    - **Example**:
 
+![help](https://user-images.githubusercontent.com/82609788/120091212-9a811180-c126-11eb-9e7c-e96611ba7fd6.png)
 
 ## Tech stack used:
 
