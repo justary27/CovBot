@@ -2,7 +2,7 @@
     Made with ❤ by team InCognoS
         @just-ary27 @Zenfoldium  @xtanion
 
-### Introduction
+## Introduction
 
 **CovBot** is an easy to use discord bot made in mind to help the people in this Covid-19 pandemic. It offers a range of features such as providing the latest stats of any country, present these trends in forms of graphs and also to entertain people. 
 
@@ -12,11 +12,11 @@ CovBot can entertain you with features like space facts and search , news on any
 **Part of a Community Server?**
 We have additional features for aiding community Covid resource servers to automate the process of adding & retrieving info from their databases and excel sheets!
 
-### Commands & Tutorials!
+## Commands & Tutorials!
 A simple command is all that you are away from interacting with **CovBot**.
 **The bot prefix is ``` ' ```.**
 
-  #### Covid Stats:
+  ### Covid Stats:
    Gives you the latest Covid-19 stats for the desired country.
 
         ```
@@ -25,7 +25,7 @@ A simple command is all that you are away from interacting with **CovBot**.
 
    No arguement will default the stats to India's.
 
-        - **Example**:
+   - **Example**:
         
         ```
         'cc USA
@@ -35,23 +35,23 @@ A simple command is all that you are away from interacting with **CovBot**.
         'cc
         ```
 
-  #### Covid Trends:
+  ### Covid Trends:
    Gives a graph showing the trends of *Total, Active cases and no. of deaths** over the past 136 days.
 
         ```
         'graph (Country Name)
         ```
         
-        - **Example**:
+    - **Example**:
 
         ```
         'graph Brazil
         ```
 
-  #### Space facts:
+  ### Space facts:
    Get interesting facts related to space on a simple search or get the Nasa's picture of the Day.
 
-        -SPOD:
+   - SPOD:
         Gives the NASA's picture of the day of an astronomical object/event.
 
         ```
@@ -60,52 +60,52 @@ A simple command is all that you are away from interacting with **CovBot**.
         - **Example**:
 
 
-        -Space Search (In development):
+    - Space Search (In development):
         Returns images related to a search on an astronomical object/event if it's in NASA's database.
 
         ```
         'ssearch (what you want to search about space)
         ```
 
-        - **Example**:
+    - **Example**:
 
-  #### News:
+  ### News:
    Get latest news on any topic of your choice!
 
     ```
     'news (topic of choice)
     ```
 
-    - **Example**:
+   - **Example**:
 
-  #### Inspirational quotes:
+  ### Inspirational quotes:
    Get some instant inspiration with an inspirational quote!
 
     ```
     'gq
     ```
 
-    - **Example**:
+   - **Example**:
 
-  #### Anime Info:
+  ### Anime Info:
     
 
     ```
 
     ```
 
-    - **Example**:
+   - **Example**:
 
-  #### Help:
+  ### Help:
    Should you ever forget anything, the help command will always be there for rescue! Just type in **'help** and you will be guided forward!
 
     ```
     'help
     ```
-    ***Example**:
+   ***Example**:
 
 
-### Tech stack used:
+## Tech stack used:
 
     - python (v3.9.4)
     - APIs used:
@@ -121,7 +121,7 @@ A simple command is all that you are away from interacting with **CovBot**.
 # Contact Us:
 Contact us at our handles for any feedback or adding community functionality of CovBot to your servers!
 
-### Made by:
+## Made by:
 
     - team InCognoS:
         - Aryan Ranjan [@just-ary27]
