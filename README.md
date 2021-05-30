@@ -16,14 +16,14 @@ We have additional features for aiding community Covid resource servers to autom
 A simple command is all that you are away from interacting with **CovBot**.
 **The bot prefix is ``` ' ```.**
 
-    #### Covid Stats:
-    Gives you the latest Covid-19 stats for the desired country.
+  #### Covid Stats:
+   Gives you the latest Covid-19 stats for the desired country.
 
         ```
         'cc (Country Name)
         ```
 
-        No arguement will default the stats to India's.
+   No arguement will default the stats to India's.
 
         - **Example**:
         
@@ -35,8 +35,8 @@ A simple command is all that you are away from interacting with **CovBot**.
         'cc
         ```
 
-    #### Covid Trends:
-    Gives a graph showing the trends of *Total, Active cases and no. of deaths** over the past 136 days.
+  #### Covid Trends:
+   Gives a graph showing the trends of *Total, Active cases and no. of deaths** over the past 136 days.
 
         ```
         'graph (Country Name)
@@ -48,8 +48,8 @@ A simple command is all that you are away from interacting with **CovBot**.
         'graph Brazil
         ```
 
-    #### Space facts:
-    Get interesting facts related to space on a simple search or get the Nasa's picture of the Day.
+  #### Space facts:
+   Get interesting facts related to space on a simple search or get the Nasa's picture of the Day.
 
         -SPOD:
         Gives the NASA's picture of the day of an astronomical object/event.
@@ -69,8 +69,8 @@ A simple command is all that you are away from interacting with **CovBot**.
 
         - **Example**:
 
-    #### News:
-    Get latest news on any topic of your choice!
+  #### News:
+   Get latest news on any topic of your choice!
 
     ```
     'news (topic of choice)
@@ -78,8 +78,8 @@ A simple command is all that you are away from interacting with **CovBot**.
 
     - **Example**:
 
-    #### Inspirational quotes:
-    Get some instant inspiration with an inspirational quote!
+  #### Inspirational quotes:
+   Get some instant inspiration with an inspirational quote!
 
     ```
     'gq
@@ -87,7 +87,7 @@ A simple command is all that you are away from interacting with **CovBot**.
 
     - **Example**:
 
-    #### Anime Info:
+  #### Anime Info:
     
 
     ```
@@ -96,8 +96,8 @@ A simple command is all that you are away from interacting with **CovBot**.
 
     - **Example**:
 
-    #### Help:
-    Should you ever forget anything, the help command will always be there for rescue! Just type in **'help** and you will be guided forward!
+  #### Help:
+   Should you ever forget anything, the help command will always be there for rescue! Just type in **'help** and you will be guided forward!
 
     ```
     'help
