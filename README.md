@@ -12,6 +12,8 @@ CovBot can entertain you with features like space facts and search , news on any
 **Part of a Community Server?**
 We have additional features for aiding community Covid resource servers to automate the process of adding & retrieving info from their databases and excel sheets!
 
+*To start using CovBot in your servers, [click here](https://discord.com/oauth2/authorize?client_id=835222640821796924&scope=bot).*
+
 ## Commands & Tutorials!
 A simple command is all that you are away from interacting with **CovBot**.
 **The bot prefix is ``` ' ```.**
@@ -38,7 +40,7 @@ A simple command is all that you are away from interacting with **CovBot**.
 
 
   ### Covid Trends:
-   Gives a graph showing the trends of *Total, Active cases and no. of deaths** over the past 136 days.
+   Gives a graph showing the trends of *Total, Active cases and no. of deaths* over the past 136 days.
 
    ```
 'graph (Country Name)
