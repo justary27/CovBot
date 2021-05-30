@@ -30,7 +30,7 @@ A simple command is all that you are away from interacting with **CovBot**.
        ```
         'cc USA
        ```
-
+![cc USA](https://user-images.githubusercontent.com/82609788/120090597-78d15b80-c121-11eb-98df-c254691452ca.png)
        ```
         'cc
        ```
