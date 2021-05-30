@@ -27,26 +27,26 @@ A simple command is all that you are away from interacting with **CovBot**.
 
    - **Example**:
         
-        ```
+       ```
         'cc USA
-        ```
+       ```
 
-        ```
+       ```
         'cc
-        ```
+       ```
 
   ### Covid Trends:
    Gives a graph showing the trends of *Total, Active cases and no. of deaths** over the past 136 days.
 
-        ```
+       ```
         'graph (Country Name)
-        ```
+       ```
         
     - **Example**:
 
-        ```
+       ```
         'graph Brazil
-        ```
+       ```
 
   ### Space facts:
    Get interesting facts related to space on a simple search or get the Nasa's picture of the Day.
@@ -54,27 +54,27 @@ A simple command is all that you are away from interacting with **CovBot**.
    - SPOD:
         Gives the NASA's picture of the day of an astronomical object/event.
 
-        ```
+       ```
         'spod
-        ```
+       ```
         - **Example**:
 
 
    - Space Search (In development):
         Returns images related to a search on an astronomical object/event if it's in NASA's database.
 
-        ```
+       ```
         'ssearch (what you want to search about space)
-        ```
+       ```
 
         - **Example**:
 
   ### News:
    Get latest news on any topic of your choice!
 
-    ```
+   ```
     'news (topic of choice)
-    ```
+   ```
 
    - **Example**:
 
@@ -90,18 +90,18 @@ A simple command is all that you are away from interacting with **CovBot**.
   ### Anime Info:
     
 
-    ```
+   ```
 
-    ```
+   ```
 
    - **Example**:
 
   ### Help:
    Should you ever forget anything, the help command will always be there for rescue! Just type in **'help** and you will be guided forward!
 
-    ```
+  ```
     'help
-    ```
+  ```
    ***Example**:
 
 
