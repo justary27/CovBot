@@ -38,9 +38,9 @@ A simple command is all that you are away from interacting with **CovBot**.
   ### Covid Trends:
    Gives a graph showing the trends of *Total, Active cases and no. of deaths** over the past 136 days.
 
-      ```
+   ```
         'graph (Country Name)
-      ```
+   ```
         
    - **Example**:
 
