@@ -123,9 +123,9 @@ Contact us at our handles for any feedback or adding community functionality of 
 
 ## Made by:
 
-    - team InCognoS:
-        - Aryan Ranjan [@just-ary27]
-        - Ashish Singh [@Zenfoldium]
-        - Shivam Sahu  [@xtanion]
+- team InCognoS:
+  - Aryan Ranjan [@just-ary27]
+  - Ashish Singh [@Zenfoldium]
+  - Shivam Sahu  [@xtanion]
 
 
