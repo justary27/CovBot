@@ -1,260 +1,211 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
-    <link
-      rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-      integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
-      crossorigin="anonymous"
-    />
-    <link rel="stylesheet" href="/CovBot/src/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="/CovBot/src/css/main.css" />
-    <link rel="stylesheet" href="/CovBot/src/css/now-ui-kit.css" />
-    <link
-      rel="icon"
-      href="/CovBot/src/assets/siteicon.png"
-      type="image/x-icon"
-    />
-    <link
-      href="https://fonts.googleapis.com/css?family=Poppins:300,400,600,700,800,900&display=swap"
-      rel="stylesheet"
-    />
-    <link
-      href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700,800,900&display=swap"
-      rel="stylesheet"
-    />
-    <link
-      href="https://fonts.googleapis.com/css?family=Lato:300,400,600,700,800,900&display=swap"
-      rel="stylesheet"
-    />
-    <link rel="preconnect" href="https://fonts.gstatic.com" />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap"
-      rel="stylesheet"
-    />
-    ss
-    <title>CoVbot-Tutorial</title>
-  </head>
-  <body style="border-top: 6px solid #5bfa9a">
-    <nav class="navbar navbar-expand-lg bgcolor">
-      <button
-        class="navbar-toggler"
-        type="button"
-        data-toggle="collapse"
-        data-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
-        <img
-          src="/CovBot/src/assets/menuIcon.svg"
-          width="20px"
-          height="20px"
-          style="max-width: none !important"
-        />
-      </button>
-      <img src="assets/BotLogo.svg" width="50" height="50" />
-      <div
-        class="collapse navbar-collapse"
-        id="navbarSupportedContent"
-        style="margin-left: 20px !important"
-      >
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-            <a class="nav-link tutnav" href="/CovBot/"
-              >Home <span class="sr-only">(current)</span></a
-            >
-          </li>
-          <li class="nav-item">
-            <a class="nav-link tutnav" href="/CovBot/features.html">Features</a>
-          </li>
-        </ul>
-        <div class="nav-item dropdown">
-          <a
-            class="nav-link dropdown-toggle tutnav"
-            href="#"
-            id="navbarDropdown"
-            role="button"
-            data-toggle="dropdown"
-            aria-haspopup="true"
-            aria-expanded="false"
-          >
-            Documentation
-          </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="/CovBot/commands.html">Commands</a>
-            <a class="dropdown-item" href="/CovBot/tutorial.html">Tutorials</a>
-            <div class="dropdown-divider"></div>
-            <!-- <a class="dropdown-item" href="#">Server settings</a> -->
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link tutnav" href="#">About</a>
-        </div>
-        <!-- <button -->
-        <!-- class="btn login-btn btn-outline-accent my-2 my-sm-0" -->
-        <!-- style="font-size: 10px !important; font-family: poppins !important" -->
-        <!-- > -->
-        <!-- LOGIN -->
-        <!-- </button> -->
-      </div>
-    </nav>
-    <div class="heading">
-      <h1 class="display-5 title">
-        Confused about how to interact with CovBot? <br />
-        Here are some Quick guides for you !!
-      </h1>
-      <br /><br /><br /><br /><br /><br />
-    </div>
-    <div class="xxx">
-      <svg
-        class="wave"
-        xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 1440 320"
-      >
-        <path
-          fill="#5BFA9A"
-          fill-opacity="1"
-          d="M0,128L48,149.3C96,171,192,213,288,208C384,203,480,149,576,154.7C672,160,768,224,864,229.3C960,235,1056,181,1152,165.3C1248,149,1344,171,1392,181.3L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
-        ></path>
-      </svg>
-      <div class="infotut">
-        <div id="datainfotut">Covid Stats</div>
-        <div class="maininfotut">
-          <div
-            id="carouselExampleControlsOne"
-            class="carousel slide"
-            data-ride="carousel"
-          >
-            <div class="carousel-inner">
-              <div class="carousel-item active">
-                <img
-                  class="d-block w-100"
-                  src="/CovBot/src/assets/cc.png"
-                  alt="First slide"
-                />
-              </div>
-              <div class="carousel-item">
-                <img
-                  class="d-block w-100"
-                  src="/CovBot/src/assets/ccUSA.png"
-                  alt="Second slide"
-                />
-              </div>
-              <div class="carousel-item">
-                <img
-                  class="d-block w-100"
-                  src="/CovBot/src/assets/cc.png"
-                  alt="Third slide"
-                />
-              </div>
-              <div class="carousel-item">
-                <img
-                  class="d-block w-100"
-                  src="/CovBot/src/assets/ccUSA.png"
-                  alt="Third slide"
-                />
-              </div>
-            </div>
-            <a
-              class="carousel-control-prev"
-              href="#carouselExampleControls"
-              role="button"
-              data-slide="prev"
-            >
-              <span
-                class="carousel-control-prev-icon"
-                aria-hidden="true"
-              ></span>
-              <span class="sr-only">Previous</span>
-            </a>
-            <a
-              class="carousel-control-next"
-              href="#carouselExampleControls"
-              role="button"
-              data-slide="next"
-            >
-              <span
-                class="carousel-control-next-icon"
-                aria-hidden="true"
-              ></span>
-              <span class="sr-only">Next</span>
-            </a>
-          </div>
-          <!-- <div class="img">
-            <img src="/assets/cccountry.png" alt="" />
-          </div> -->
-        </div>
-      </div>
-      <svg
-        class="ultawave"
-        xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 1440 320"
-      >
-        <path
-          fill="#5BFA9A"
-          fill-opacity="1"
-          d="M0,128L48,149.3C96,171,192,213,288,208C384,203,480,149,576,154.7C672,160,768,224,864,229.3C960,235,1056,181,1152,165.3C1248,149,1344,171,1392,181.3L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
-        ></path>
-      </svg>
-    </div>
 
-    <div class="infoOutsidetut cor">
-      <div id="datainfoOuttut">Covid19 Resources</div>
-      <div class="maininfoOuttut c1">
-        <div
-          id="carouselExampleControlsTwo"
-          class="carousel slide"
-          data-ride="carousel"
-        >
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+    integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous" />
+  <link rel="stylesheet" href="/CovBot/src/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="/CovBot/src/css/main.css" />
+  <link rel="stylesheet" href="/CovBot/src/css/now-ui-kit.css" />
+  <link rel="icon" href="/CovBot/src/assets/siteicon.png" type="image/x-icon" />
+  <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,600,700,800,900&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700,800,900&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,600,700,800,900&display=swap" rel="stylesheet" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap" rel="stylesheet" />
+  ss
+  <title>CoVbot-Tutorial</title>
+</head>
+
+<body style="border-top: 6px solid #5bfa9a">
+  <nav class="navbar navbar-expand-lg bgcolor">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <img src="/CovBot/src/assets/menuIcon.svg" width="20px" height="20px" style="max-width: none !important" />
+    </button>
+    <img src="assets/BotLogo.svg" width="50" height="50" />
+    <div class="collapse navbar-collapse" id="navbarSupportedContent" style="margin-left: 20px !important">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link tutnav" href="/CovBot/">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link tutnav" href="/CovBot/features.html">Features</a>
+        </li>
+      </ul>
+      <div class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle tutnav" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+          aria-haspopup="true" aria-expanded="false">
+          Documentation
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="/CovBot/commands.html">Commands</a>
+          <a class="dropdown-item" href="/CovBot/tutorial.html">Tutorials</a>
+          <div class="dropdown-divider"></div>
+          <!-- <a class="dropdown-item" href="#">Server settings</a> -->
+        </div>
+      </div>
+      <div class="nav-item">
+        <a class="nav-link tutnav" href="#">About</a>
+      </div>
+      <!-- <button -->
+      <!-- class="btn login-btn btn-outline-accent my-2 my-sm-0" -->
+      <!-- style="font-size: 10px !important; font-family: poppins !important" -->
+      <!-- > -->
+      <!-- LOGIN -->
+      <!-- </button> -->
+    </div>
+  </nav>
+  <div class="heading">
+    <h1 class="display-5 title">
+      Confused about how to interact with CovBot? <br />
+      Here are some Quick guides for you !!
+    </h1>
+    <br /><br /><br /><br /><br /><br />
+  </div>
+  <div class="xxx">
+    <svg class="wave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+      <path fill="#5BFA9A" fill-opacity="1"
+        d="M0,128L48,149.3C96,171,192,213,288,208C384,203,480,149,576,154.7C672,160,768,224,864,229.3C960,235,1056,181,1152,165.3C1248,149,1344,171,1392,181.3L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z">
+      </path>
+    </svg>
+    <div class="infotut">
+      <div id="datainfotut">Covid Stats</div>
+      <div class="maininfotut">
+        <div id="carousel-one" class="carousel slide" data-ride="carousel">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+              <li data-target="#carousel-one" data-slide-to="0" class="active"></li>
+              <li data-target="#carousel-one" data-slide-to="1"></li>
+          </ol>
+
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                  <img src="/CovBot/src/assets/cc.png" alt="..." />
+                  <div class="carousel-caption">
+                      
+                  </div>
+              </div>
+              <div class="item">
+                  <img src="/CovBot/src/assets/ccUSA.png" alt="..." />
+                  <div class="carousel-caption">
+                      
+                  </div>
+              </div>
+          </div>
+
+          <a class="left carousel-control" href="#carousel-one" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+          </a>
+          <a class="right carousel-control" href="#carousel-one" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+          </a>
+      </div>
+        <!-- <div id="carouselExampleControlsOne" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img
-                class="d-block gekko1"
-                src="/CovBot/src/assets/cvac.png"
-                alt="First slide"
-              />
+              <img class="d-block w-100" src="/CovBot/src/assets/cc.png" alt="First slide" />
             </div>
             <div class="carousel-item">
-              <img
-                class="d-block gekko2"
-                src="/CovBot/src/assets/cmed.png"
-                alt="Second slide"
-              />
+              <img class="d-block w-100" src="/CovBot/src/assets/ccUSA.png" alt="Second slide" />
             </div>
             <div class="carousel-item">
-              <img
-                class="d-block gekko3"
-                src="/CovBot/src/assets/cinfo.png"
-                alt="Third slide"
-              />
+              <img class="d-block w-100" src="/CovBot/src/assets/cc.png" alt="Third slide" />
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="/CovBot/src/assets/ccUSA.png" alt="Third slide" />
             </div>
           </div>
-          <a
-            class="carousel-control-prev"
-            href="#carouselExampleControls"
-            role="button"
-            data-slide="prev"
-          >
+          <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="sr-only">Previous</span>
           </a>
-          <a
-            class="carousel-control-next"
-            href="#carouselExampleControls"
-            role="button"
-            data-slide="next"
-          >
+          <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Next</span>
           </a>
-        </div>
+        </div> -->
         <!-- <div class="img">
+            <img src="/assets/cccountry.png" alt="" />
+          </div> -->
+      </div>
+    </div>
+    <svg class="ultawave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+      <path fill="#5BFA9A" fill-opacity="1"
+        d="M0,128L48,149.3C96,171,192,213,288,208C384,203,480,149,576,154.7C672,160,768,224,864,229.3C960,235,1056,181,1152,165.3C1248,149,1344,171,1392,181.3L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z">
+      </path>
+    </svg>
+  </div>
+
+  <div class="infoOutsidetut cor">
+    <div id="datainfoOuttut">Covid19 Resources</div>
+    <div class="maininfoOuttut c1">
+      <div id="carousel-two" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#carousel-two" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-two" data-slide-to="1"></li>
+            <li data-target="#carousel-two" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                <img src="/CovBot/src/assets/cvac.png" alt="..." />
+                <div class="carousel-caption">
+                    
+                </div>
+            </div>
+            <div class="item">
+                <img src="/CovBot/src/assets/cmed.png" alt="..." />
+                <div class="carousel-caption">
+                    
+                </div>
+            </div>
+            <div class="item">
+              <img src="/CovBot/src/assets/cinfo.png" alt="..." />
+              <div class="carousel-caption">
+                  
+              </div>
+            </div>
+        </div>
+
+        <a class="left carousel-control" href="#carousel-two" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#carousel-two" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+      <!-- <div id="carouselExampleControlsTwo" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img class="d-block gekko1" src="/CovBot/src/assets/cvac.png" alt="First slide" />
+          </div>
+          <div class="carousel-item">
+            <img class="d-block gekko2" src="/CovBot/src/assets/cmed.png" alt="Second slide" />
+          </div>
+          <div class="carousel-item">
+            <img class="d-block gekko3" src="/CovBot/src/assets/cinfo.png" alt="Third slide" />
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div> -->
+      <!-- <div class="img">
                 <img src="/assets/cvac.png" alt="">
             </div>
             <div class="img">
@@ -263,86 +214,77 @@
             <div class="img">
                 <img src="/assets/Screenshot 2021-05-09 110716.png" alt="">
             </div> -->
-      </div>
     </div>
-    <div class="xxx">
-      <svg
-        class="wave"
-        xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 1440 320"
-      >
-        <path
-          fill="#5BFA9A"
-          fill-opacity="1"
-          d="M0,128L48,149.3C96,171,192,213,288,208C384,203,480,149,576,154.7C672,160,768,224,864,229.3C960,235,1056,181,1152,165.3C1248,149,1344,171,1392,181.3L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
-        ></path>
-      </svg>
-      <div class="infotut aisehi">
-        <div id="datainfotut">Space✨</div>
-        <div class="maininfotut">
-          <div
-            id="carouselExampleControlsThree"
-            class="carousel slide"
-            data-ride="carousel"
-          >
-            <div class="carousel-inner">
-              <div class="carousel-item active">
-                <img
-                  class="d-block w-100"
-                  src="/CovBot/src/assets/spod.png"
-                  alt="First slide"
-                />
+  </div>
+  <div class="xxx">
+    <svg class="wave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+      <path fill="#5BFA9A" fill-opacity="1"
+        d="M0,128L48,149.3C96,171,192,213,288,208C384,203,480,149,576,154.7C672,160,768,224,864,229.3C960,235,1056,181,1152,165.3C1248,149,1344,171,1392,181.3L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z">
+      </path>
+    </svg>
+    <div class="infotut aisehi">
+      <div id="datainfotut">Space✨</div>
+      <div class="maininfotut">
+        <div id="carousel-three" class="carousel slide" data-ride="carousel">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+              <li data-target="#carousel-three" data-slide-to="0" class="active"></li>
+              <li data-target="#carousel-three" data-slide-to="1"></li>
+          </ol>
+
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                  <img src="/CovBot/src/assets/spod.png"
+                      alt="..." />
+                  <div class="carousel-caption">
+                      
+                  </div>
               </div>
-              <div class="carousel-item">
-                <img
-                  class="d-block w-100"
-                  src="/CovBot/src/assets/ssearchJupiter.png"
-                  alt="Second slide"
-                />
+              <div class="item">
+                  <img src="/CovBot/src/assets/ssearchJupiter.png" alt="..." />
+                  <div class="carousel-caption">
+                      
+                  </div>
               </div>
-            </div>
-            <div class="carousel-inner">
-              <div class="carousel-item active">
-                <img
-                  class="d-block w-100"
-                  src="/CovBot/src/assets/spod.png"
-                  alt="First slide"
-                />
-              </div>
-              <div class="carousel-item">
-                <img
-                  class="d-block w-100"
-                  src="/CovBot/src/assets/ssearchJupiter.png"
-                  alt="Second slide"
-                />
-              </div>
-            </div>
-            <a
-              class="carousel-control-prev"
-              href="#carouselExampleControls"
-              role="button"
-              data-slide="prev"
-            >
-              <span
-                class="carousel-control-prev-icon"
-                aria-hidden="true"
-              ></span>
-              <span class="sr-only">Previous</span>
-            </a>
-            <a
-              class="carousel-control-next"
-              href="#carouselExampleControls"
-              role="button"
-              data-slide="next"
-            >
-              <span
-                class="carousel-control-next-icon"
-                aria-hidden="true"
-              ></span>
-              <span class="sr-only">Next</span>
-            </a>
           </div>
-          <!-- <div class="maininfotut">
+
+          <a class="left carousel-control" href="#carousel-three" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+          </a>
+          <a class="right carousel-control" href="#carousel-three" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+          </a>
+      </div>
+        <!-- <div id="carouselExampleControlsThree" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img class="d-block w-100" src="/CovBot/src/assets/spod.png" alt="First slide" />
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="/CovBot/src/assets/ssearchJupiter.png" alt="Second slide" />
+            </div>
+          </div>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img class="d-block w-100" src="/CovBot/src/assets/spod.png" alt="First slide" />
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="/CovBot/src/assets/ssearchJupiter.png" alt="Second slide" />
+            </div>
+          </div>
+          <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div> -->
+        <!-- <div class="maininfotut">
             <div class="img">
               <img class="img" src="/assets/spod.png" alt="" />
             </div>
@@ -352,113 +294,85 @@
               <img class="img" src="/assets/sspace.png" alt="" />
             </div>
           </div> -->
-        </div>
       </div>
-      <svg
-        class="ultawave"
-        xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 1440 320"
-      >
-        <path
-          fill="#5BFA9A"
-          fill-opacity="1"
-          d="M0,128L48,149.3C96,171,192,213,288,208C384,203,480,149,576,154.7C672,160,768,224,864,229.3C960,235,1056,181,1152,165.3C1248,149,1344,171,1392,181.3L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
-        ></path>
-      </svg>
     </div>
-    <div class="infoOutsidetut">
-      <div id="datainfoOuttut">Quotes</div>
-      <div class="maininfoOuttut">
+    <svg class="ultawave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+      <path fill="#5BFA9A" fill-opacity="1"
+        d="M0,128L48,149.3C96,171,192,213,288,208C384,203,480,149,576,154.7C672,160,768,224,864,229.3C960,235,1056,181,1152,165.3C1248,149,1344,171,1392,181.3L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z">
+      </path>
+    </svg>
+  </div>
+  <div class="infoOutsidetut">
+    <div id="datainfoOuttut">Quotes</div>
+    <div class="maininfoOuttut">
+      <div>
+        <img class="img_" style="width: 700px" src="/CovBot/src/assets/gq.png" alt="" />
+      </div>
+    </div>
+  </div>
+  <div class="xxx">
+    <svg class="wave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+      <path fill="#5BFA9A" fill-opacity="1"
+        d="M0,128L48,149.3C96,171,192,213,288,208C384,203,480,149,576,154.7C672,160,768,224,864,229.3C960,235,1056,181,1152,165.3C1248,149,1344,171,1392,181.3L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z">
+      </path>
+    </svg>
+    <div class="infotut">
+      <div id="datainfotut">News</div>
+      <div class="maininfotut">
         <div>
-          <img
-            class="img_"
-            style="width: 700px"
-            src="/CovBot/src/assets/gq.png"
-            alt=""
-          />
+          <img class="img" style="width: 700px; margin-top: -60px" src="/CovBot/src/assets/news.png" alt="" />
         </div>
       </div>
     </div>
-    <div class="xxx">
-      <svg
-        class="wave"
-        xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 1440 320"
-      >
-        <path
-          fill="#5BFA9A"
-          fill-opacity="1"
-          d="M0,128L48,149.3C96,171,192,213,288,208C384,203,480,149,576,154.7C672,160,768,224,864,229.3C960,235,1056,181,1152,165.3C1248,149,1344,171,1392,181.3L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
-        ></path>
-      </svg>
-      <div class="infotut">
-        <div id="datainfotut">News</div>
-        <div class="maininfotut">
-          <div>
-            <img
-              class="img"
-              style="width: 700px; margin-top: -60px"
-              src="/CovBot/src/assets/news.png"
-              alt=""
-            />
-          </div>
-        </div>
-      </div>
-      <svg
-        class="ultawave"
-        xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 1440 320"
-      >
-        <path
-          fill="#5BFA9A"
-          fill-opacity="1"
-          d="M0,128L48,149.3C96,171,192,213,288,208C384,203,480,149,576,154.7C672,160,768,224,864,229.3C960,235,1056,181,1152,165.3C1248,149,1344,171,1392,181.3L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
-        ></path>
-      </svg>
-    </div>
+    <svg class="ultawave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+      <path fill="#5BFA9A" fill-opacity="1"
+        d="M0,128L48,149.3C96,171,192,213,288,208C384,203,480,149,576,154.7C672,160,768,224,864,229.3C960,235,1056,181,1152,165.3C1248,149,1344,171,1392,181.3L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z">
+      </path>
+    </svg>
+  </div>
 
-    <div class="page_end">
-      <div class="start">
-        <div class="card">
-          <div class="card-body gs-card">
-            <div class="title">Ready to try CoVbot?</div>
-            <div class="subtitle">
-              Invite CoVbot and start giving your server cool perks!
-            </div>
-            <br />
-            <a
-              class="btn btn-primary btn-lg"
-              style="background-color: #5bfa9a"
-              href="https://discord.com/oauth2/authorize?client_id=835222640821796924&scope=bot"
-              role="button"
-              >Get started</a
-            >
+  <div class="page_end">
+    <div class="start">
+      <div class="card">
+        <div class="card-body gs-card">
+          <div class="title">Ready to try CoVbot?</div>
+          <div class="subtitle">
+            Invite CoVbot and start giving your server cool perks!
           </div>
           <br />
-        </div>
-      </div>
-      <div class="footer">
-        <div class="bot-footer">
-          <img src="/CovBot/src/assets/tutorial.png" width="150" /><br />
+          <a class="btn btn-primary btn-lg" style="background-color: #5bfa9a"
+            href="https://discord.com/oauth2/authorize?client_id=835222640821796924&scope=bot" role="button">Get
+            started</a>
         </div>
         <br />
       </div>
     </div>
-    <script
-      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-      crossorigin="anonymous"
-    ></script>
-    <script src="js/now-ui-kit.min.js"></script>
-  </body>
+    <div class="footer">
+      <div class="bot-footer">
+        <img src="/CovBot/src/assets/tutorial.png" width="150" /><br />
+      </div>
+      <br />
+    </div>
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#carousel-one").carousel();
+            $("#carousel-two").carousel();
+            $("#carousel-three").carousel();
+        });
+    </script>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+  <script src="js/now-ui-kit.min.js"></script>
+</body>
+
 </html>
