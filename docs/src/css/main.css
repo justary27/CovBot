@@ -78,6 +78,12 @@ body {
     background-position: right !important;
     background-size: 38% !important;
 }
+.incogno-bars{
+    background-image: url("/CovBot/src/assets/Incognoabout.png");
+    background-repeat: no-repeat !important;
+    background-position: right !important;
+    background-size: 38% !important;
+}
 .heading {
     margin: 160px 50px -6.57vw 50px !important;
     color: #fff !important;
