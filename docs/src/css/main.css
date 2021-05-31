@@ -94,10 +94,6 @@ body {
     text-align: center !important;
     background: #AD91FF !important;
     padding: 60px 50px !important;
-    background-image: url("../assets/wavy-dark-by-nouridio.svg") !important;
-    background-position: bottom !important;
-    background-size: 120% !important;
-    background-repeat: no-repeat !important;
 }
 .features .title {
     font-size: 40px !important;
@@ -135,6 +131,10 @@ body {
 .statistics {
     text-align: center !important;
     padding-top: 19.73vw !important;
+    background-image: url("../assets/wavy-dark-by-nouridio.svg") !important;
+    background-position: top !important;
+    background-size: 120% !important;
+    background-repeat: no-repeat !important;
 }
 
 .statistics .card-body{
