@@ -133,14 +133,16 @@ body {
     font-weight: 600 !important;
     color: #AD91FF !important;
 }
-
-.statistics {
-    text-align: center !important;
-    padding-top: 19.73vw !important;
+.stats-back{
     background-image: url("/CovBot/src/assets/wavy-dark-by-nouridio.svg") !important;
     background-position: top !important;
     background-size: 120% !important;
     background-repeat: no-repeat !important;
+}
+
+.statistics {
+    text-align: center !important;
+    padding-top: 19.73vw !important;
 }
 
 .statistics .card-body{
