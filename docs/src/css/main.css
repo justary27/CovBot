@@ -73,10 +73,10 @@ body {
     background-repeat: no-repeat !important;
 }
 .head-bars{
-    background-image: url("/CovBot/src/assets/medical-mask.svg");
+    background-image: url("/CovBot/src/assets/medical-mask50.svg");
     background-repeat: no-repeat !important;
     background-position: right !important;
-    background-size: 200% !important;
+    background-size: 38% !important;
 }
 .heading {
     margin: 160px 50px -6.57vw 50px !important;
