@@ -58,7 +58,7 @@ body {
 .btn-secondary {
     background-color: #2C2F33 !important
 }
-.mask-cover{
+#mask-cover{
     opacity: 20%;
     left:-20vw;
 }
