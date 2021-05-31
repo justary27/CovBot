@@ -183,9 +183,14 @@ body {
     }
 }
 
-@media screen and (max-width:600px) and (min-width:448px) {
+@media screen and (max-width:615px) and (min-width:448px) {
     .page_end{
         background-size: 435% !important;
+    }
+}
+@media screen and (max-width:982px) and (min-width:615px) {
+    .page_end{
+        background-size: 475% !important;
     }
 }
 
