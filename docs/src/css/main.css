@@ -179,13 +179,13 @@ body {
 }
 @media screen and (max-width:448px) and (min-width:360px) {
     .page_end{
-        background-size: 435% !important;
+        background-size: 550% !important;
     }
 }
 
 @media screen and (max-width:600px) and (min-width:448px) {
     .page_end{
-        background-size: 550% !important;
+        background-size: 435% !important;
     }
 }
 
