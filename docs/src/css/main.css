@@ -177,7 +177,7 @@ body {
     background-size: 200% !important;
     background-repeat: no-repeat !important;
 }
-@media screen and (max-width:600px) and (min-width:448px) {
+@media screen and (max-width:448px) and (min-width:360px) {
     .page_end{
         background-size: 435% !important;
     }
