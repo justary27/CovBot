@@ -60,12 +60,16 @@ body {
 }
 #mask-cover{
     opacity: 20%;
-    left:-20vw;
+    margin-left: 78vw;
+    width: 33vw;
+    height: 33vw;
+    position: absolute;
+    top: 5vw;
 }
 .head-cover{
     background-image: url("../assets/wavy-purple-by-nouridio.svg") !important;
-    background-size: 300% !important;
-    background-position: bottom !important;
+    background-size: 200% !important;
+    background-position: top !important;
     background-repeat: no-repeat !important;
 }
 .heading {
