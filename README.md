@@ -121,6 +121,8 @@ A simple command is all that you are away from interacting with **CovBot**.
       ```
          'anime (One Punch Man)
       ```
+      <img width="600" alt="2021-05-31 (3)" src="https://user-images.githubusercontent.com/76696648/120157158-55d1a500-c210-11eb-834f-3710961014e0.png">
+
       
   - Mangas:
   For the manga weebs, use this command to get info on any manga!
@@ -132,7 +134,18 @@ A simple command is all that you are away from interacting with **CovBot**.
       ```
          'manga 
       ```
-   
+  ## Wallpapers:
+  Getting bored of the same old wallpaper? Get a new one on the topic of your choice, rightaway!
+  
+  ```
+      'wall (Word related to that of wallpaper you want)
+  ```
+   - **Example**:
+      
+     ```
+         'wall Forest
+     ```
+      
 
   ## Help:
    Should you ever forget anything, the help command will always be there for rescue! Just type in **'help** and you will be guided forward!
@@ -153,6 +166,8 @@ A simple command is all that you are away from interacting with **CovBot**.
         - Covid API
         - python-news API
         - Zenquotes API
+        - Unsplash API
+        - Anime API
    - Matplotlib 
 
 
