@@ -367,10 +367,10 @@ color: rgba(255, 255, 255, 0.46) !important
 }
 
 .maininfotut{
-    display: flex;
+    width: 800px;
 }
 .maininfoOuttut{
-    display: flex;
+    width: 800px;
 }
 .img{
     margin:5px;
