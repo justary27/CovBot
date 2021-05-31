@@ -177,6 +177,18 @@ body {
     background-size: 200% !important;
     background-repeat: no-repeat !important;
 }
+@media screen and (max-width:600px) and (min-width:448px) {
+    .page_end{
+        background-size: 435% !important;
+    }
+}
+
+@media screen and (max-width:600px) and (min-width:448px) {
+    .page_end{
+        background-size: 550% !important;
+    }
+}
+
 .start {
     padding: 60px 50px !important
 }
