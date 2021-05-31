@@ -26,6 +26,9 @@ body {
 .comnav:hover{
     color: #FFAFAF !important;
 }
+.aboutnav:hover{
+    color: #DAFA5B !important;
+}
  .login-btn {
      border: 2px solid #AD91FF !important;
      font-size: 10px !important;
