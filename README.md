@@ -145,7 +145,8 @@ A simple command is all that you are away from interacting with **CovBot**.
      ```
          'wall Forest
      ```
-      
+     <img width="264" alt="2021-06-01 (2)" src="https://user-images.githubusercontent.com/76696648/120240381-07f38600-c27e-11eb-909e-ad10641e9148.png">
+
 
   ## Help:
    Should you ever forget anything, the help command will always be there for rescue! Just type in **'help** and you will be guided forward!
