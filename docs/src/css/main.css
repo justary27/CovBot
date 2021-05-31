@@ -67,10 +67,16 @@ body {
     top: 5vw;
 }
 .head-cover{
-    background-image: url("../assets/wavy-purple-by-nouridio.svg") !important;
+    background-image: url("/CovBot/src/assets/wavy-purple-by-nouridio.svg") !important;
     background-size: 200% !important;
     background-position: top !important;
     background-repeat: no-repeat !important;
+}
+.head-bars{
+    background-image: url("/CovBot/src/assets/medical-mask.svg");
+    background-repeat: no-repeat !important;
+    background-position: right !important;
+    background-size: 200% !important;
 }
 .heading {
     margin: 160px 50px -6.57vw 50px !important;
@@ -131,7 +137,7 @@ body {
 .statistics {
     text-align: center !important;
     padding-top: 19.73vw !important;
-    background-image: url("../assets/wavy-dark-by-nouridio.svg") !important;
+    background-image: url("/CovBot/src/assets/wavy-dark-by-nouridio.svg") !important;
     background-position: top !important;
     background-size: 120% !important;
     background-repeat: no-repeat !important;
@@ -164,7 +170,7 @@ body {
 
 
 .page_end {
-    background-image: url("../assets/wavy-light-by-nouridio.svg") !important;
+    background-image: url("/CovBot/src/assets/wavy-light-by-nouridio.svg") !important;
     background-position: bottom !important;
     background-size: 200% !important;
     background-repeat: no-repeat !important;
