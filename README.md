@@ -17,6 +17,13 @@ We have additional features for aiding community Covid resource servers to autom
 
 *To start using CovBot in your servers, [click here](https://discord.com/oauth2/authorize?client_id=835222640821796924&scope=bot).*
 
+# For Community Servers
+The bot can give automatic updates with respect to availiabity of things like Oxgen cylinders, hospital beds and any thing based on your preference each time you add an entry to your sheets/database.
+   - **Example**:
+   
+   <img width="308" alt="2021-06-01 (4)" src="https://user-images.githubusercontent.com/76696648/120290459-fba01500-c2df-11eb-8759-02e3aa170477.png">
+
+
 # Commands & Tutorials!
 A simple command is all that you are away from interacting with **CovBot**.
 **The bot prefix is ``` ' ```.**
