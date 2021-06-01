@@ -21,7 +21,12 @@ We have additional features for aiding community Covid resource servers to autom
 The bot can give automatic updates with respect to availiabity of things like Oxgen cylinders, hospital beds and any thing based on your preference each time you add/modify an entry in your sheets/database.
    - **Example**:
    
-   <img width="308" alt="2021-06-01 (4)" src="https://user-images.githubusercontent.com/76696648/120290459-fba01500-c2df-11eb-8759-02e3aa170477.png">
+   <html>
+   
+   <span><img width="308" alt="2021-06-01 (4)" src="https://user-images.githubusercontent.com/76696648/120290459-fba01500-c2df-11eb-8759-02e3aa170477.png"></span>
+   
+   <span><img width="242" alt="2021-06-01 (6)" src="https://user-images.githubusercontent.com/76696648/120309035-622e2e80-c2f2-11eb-8d3f-f8ae6a50bb2d.png"></span>
+   </html>
 
 
 # Commands & Tutorials!
