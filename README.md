@@ -7,7 +7,7 @@
 
 # Introduction
 
-**CovBot** is an easy to use discord bot made in mind to help the people in this Covid-19 pandemic. It offers a range of features such as providing the latest stats of any country, present these trends in forms of graphs and also to entertain people. 
+**CovBot** is an easy to use **discord bot** made in mind to help the people in this Covid-19 pandemic. It offers a range of features such as providing the latest stats of any country, present these trends in forms of graphs and also to entertain people. 
 
 **Getting Bored?** 
 CovBot can entertain you with features like space facts and search , news on any topic, info on your favorite animes, and some quotes to inspire yourself.
